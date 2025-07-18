@@ -3,7 +3,7 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
 #--------------------------------------------------
 alpine:3.9
 mysql:8.2.0
@@ -11,3 +11,8 @@ nginx:1.21-alpine
 redis:7.4.3
 apache/kafka:3.7.2
 apache/rocketmq:5.3.1
+jenkins:2.60.1
+openjdk:21-jdk
+openjdk:17-jdk
+openjdk:11-jdk
+openjdk:8-jdk
