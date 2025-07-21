@@ -21,4 +21,5 @@ mysql:5.7
 #debian:11
 #ubuntu:22.04
 #ubuntu:20.04
-docker.gitea.com/gitea:1.24.3
+#docker.gitea.com/gitea:1.24.3
+jenkinsci/blueocean:1.25.5
