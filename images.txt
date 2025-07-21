@@ -17,7 +17,8 @@ mysql:5.7
 #openjdk:17-jdk
 #openjdk:11-jdk
 #openjdk:8-jdk
-postgres:16.9
-debian:11
-ubuntu:22.04
-ubuntu:20.04
+#postgres:16.9
+#debian:11
+#ubuntu:22.04
+#ubuntu:20.04
+docker.gitea.com/gitea:1.24.3
