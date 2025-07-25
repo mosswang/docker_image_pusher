@@ -23,7 +23,8 @@ mysql:5.7
 #ubuntu:20.04
 #docker.gitea.com/gitea:1.24.3
 #jenkinsci/blueocean:1.25.5
-linuxserver/wireguard:1.0.20210914
-kodcloud/kodbox:1.59
-cnk3x/xunlei:v3.20.2
-linuxserver/jellyfin:10.9.11
+#linuxserver/wireguard:1.0.20210914
+#kodcloud/kodbox:1.59
+#cnk3x/xunlei:v3.20.2
+#linuxserver/jellyfin:10.9.11
+snowdreamtech/frpc:latest
