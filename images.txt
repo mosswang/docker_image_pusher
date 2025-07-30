@@ -27,4 +27,5 @@ mysql:5.7
 #kodcloud/kodbox:1.59
 #cnk3x/xunlei:v3.20.2
 #linuxserver/jellyfin:10.9.11
-snowdreamtech/frpc:latest
+#snowdreamtech/frpc:latest
+nocodb/nocodb:0.264.0
