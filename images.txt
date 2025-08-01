@@ -31,4 +31,5 @@ mysql:5.7
 #nocodb/nocodb:0.264.0
 #snowdreamtech/frpc:0.38.0
 #cnk3x/xunlei:v3.20.2
-allinssl/allinssl:v1.0.7
+#allinssl/allinssl:v1.0.7
+kodcloud/kodbox:latest
