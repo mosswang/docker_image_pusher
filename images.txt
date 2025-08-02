@@ -32,4 +32,7 @@ mysql:5.7
 #snowdreamtech/frpc:0.38.0
 #cnk3x/xunlei:v3.20.2
 #allinssl/allinssl:v1.0.7
-kodcloud/kodbox:latest
+#kodcloud/kodbox:latest
+p3terx/aria2-pro:latest
+p3terx/ariang:latest
+linuxserver/qbittorrent:latest
