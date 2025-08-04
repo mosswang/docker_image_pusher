@@ -36,4 +36,5 @@ mysql:5.7
 #p3terx/aria2-pro:latest
 #p3terx/ariang:latest
 #linuxserver/qbittorrent:latest
-linuxserver/obsidian:1.8.10
+#linuxserver/obsidian:1.8.10
+b3log/siyuan:v3.2.1
