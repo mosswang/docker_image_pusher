@@ -37,4 +37,5 @@ mysql:5.7
 #p3terx/ariang:latest
 #linuxserver/qbittorrent:latest
 #linuxserver/obsidian:1.8.10
-b3log/siyuan:v3.2.1
+#b3log/siyuan:v3.2.1
+bitnamicharts/harbor:sha256-6099586d0c1ca746a987cef91f5496aff8b647734147de8550570cb584ebbfad
