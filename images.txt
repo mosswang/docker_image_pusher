@@ -41,3 +41,4 @@ mysql:5.7
 #bitnamicharts/harbor:sha256-6099586d0c1ca746a987cef91f5496aff8b647734147de8550570cb584ebbfad
 #portainer/portainer:alpine
 ghcr.io/sytone/obsidian-remote:latest
+dorowu/ubuntu-desktop-lxde-vnc:latest
