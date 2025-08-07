@@ -42,4 +42,5 @@ mysql:5.7
 #portainer/portainer:alpine
 #ghcr.io/sytone/obsidian-remote:latest
 #dorowu/ubuntu-desktop-lxde-vnc:latest
-gdy666/lucky:2.18.2
+#gdy666/lucky:2.18.2
+jenkins:2.60.2-alpine
