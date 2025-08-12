@@ -45,4 +45,5 @@ mysql:5.7
 #gdy666/lucky:2.18.2
 #jenkins:2.60.2-alpine
 #jenkins/jenkins:2.479.3-jdk21
-gitlab/gitlab-ce:16.3.4-ce.0
+#gitlab/gitlab-ce:16.3.4-ce.0
+gitlab/gitlab-runner:alpine-v16.3.0
