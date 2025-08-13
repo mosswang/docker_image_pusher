@@ -47,4 +47,5 @@ mysql:5.7
 #jenkins/jenkins:2.479.3-jdk21
 #gitlab/gitlab-ce:16.3.4-ce.0
 #gitlab/gitlab-runner:alpine-v16.3.0
-gitlab/gitlab-runner:ubuntu-v16.3.0
+#gitlab/gitlab-runner:ubuntu-v16.3.0
+gitlab/gitlab-runner:v16.3.0
