@@ -49,3 +49,4 @@ mysql:5.7
 #gitlab/gitlab-runner:alpine-v16.3.0
 #gitlab/gitlab-runner:ubuntu-v16.3.0
 gitlab/gitlab-runner:v16.3.0
+eclipse-temurin:21-jre-alpine
