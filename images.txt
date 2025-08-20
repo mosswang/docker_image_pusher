@@ -48,5 +48,6 @@ mysql:5.7
 #gitlab/gitlab-ce:16.3.4-ce.0
 #gitlab/gitlab-runner:alpine-v16.3.0
 #gitlab/gitlab-runner:ubuntu-v16.3.0
-gitlab/gitlab-runner:v16.3.0
-eclipse-temurin:21-jre-alpine
+#gitlab/gitlab-runner:v16.3.0
+#eclipse-temurin:21-jre-alpine
+linuxserver/calibre-web:0.6.24
