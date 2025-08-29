@@ -51,4 +51,4 @@ mysql:5.7
 #gitlab/gitlab-runner:v16.3.0
 #eclipse-temurin:21-jre-alpine
 #linuxserver/calibre-web:0.6.24
-wg-easy:latest
+weejewel/wg-easy:latest
