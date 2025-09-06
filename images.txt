@@ -53,4 +53,5 @@ mysql:5.7
 #linuxserver/calibre-web:0.6.24
 #weejewel/wg-easy:latest
 #ghcr.io/wg-easy/wg-easy:latest
-xubiaolin/zerotier-planet:latest
+#xubiaolin/zerotier-planet:latest
+ghcr.io/wg-easy/wg-easy:13
